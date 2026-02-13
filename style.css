@@ -1,0 +1,23 @@
+body{
+    background: #f2f2f2;
+
+}
+head{
+    text-decoration-color: #2c3e50;
+    text-emphasis-color: #2c3e50;
+
+    
+}
+
+page{
+    flex-direction: row-reverse;
+    justify-items: center;
+    align-items: center;
+}
+
+button {
+    background-color: #e74c3c ;
+text-decoration-color:  #ffffff;
+text-emphasis-color: #ffffff;
+align-content: center;
+}
